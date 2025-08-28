@@ -4,11 +4,11 @@ I am a Computer System Engineering student at DUET with a strong curiosity for h
 
 **🔭 I’m currently working on** improving my coding skills through small projects and problem-solving challenges  
 
-**🌱 I’m currently learning** Web Development and strengthening my foundations in C++  
+**🌱 currently learning** Web Development and strengthening my foundations in C++  
 
 **👯 I’m looking to collaborate on** beginner-friendly open-source projects and student coding communities  
 
-**📫 How to reach me:** 
+**📫 Contact me:** 
 Feel free to reach out if you'd like to collaborate, share ideas, or just say hi!
 📧 Email:  [khetpalekta@gmail.com](mailto:khetpalekta@gmail.com)
 
@@ -21,4 +21,3 @@ Feel free to reach out if you'd like to collaborate, share ideas, or just say hi
 I love turning ☕ coffee into code and experimenting with new tools to learn faster  
 
 Learning, experimenting, and sharing — that’s what keeps me moving 🚀
-
